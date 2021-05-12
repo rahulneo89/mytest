@@ -13,6 +13,8 @@ Use the following boilerplate code written in python
 
 ```python
 import requests
+import selenium
+
 url = 'https://www.duckduckgo.com'
 
 r = requests.get (url)
