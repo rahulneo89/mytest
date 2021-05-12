@@ -24,6 +24,9 @@ def printsometext():
 
 def printSomeOtherText():
 	print ('dummy text.')
+
+def function2():
+	print ('inside function 2')
 ```
 
 ## License
