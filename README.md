@@ -22,6 +22,8 @@ r = requests.get (url)
 def printsometext():
 	print ('hello')
 
+def dummyFunction ():
+	print ('inside dummy function.')
 ```
 
 ## License
