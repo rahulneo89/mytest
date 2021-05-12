@@ -24,5 +24,7 @@ def printsometext():
 
 ```
 
+> Make sure you set proper environment varialbes. ENVIRONMENT_VARIABLE
+
 ## License
 [MIT](https://chooselicense.com/licenses/mit)
